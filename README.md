@@ -61,17 +61,23 @@ java_project_space/
 
 ## Como Executar
 
-1. **Compilar o projeto**:
+1. **Clonar o projeto**:
+   ```bash
+   git clone https://github.com/didizst/AcademicManager.git
+   cd AcademicManager
+   ```
+
+2. **Compilar o projeto**:
    ```bash
    javac -d bin src/br/edu/espacos/*.java src/br/edu/espacos/**/*.java
    ```
 
-2. **Iniciar o servidor**:
+3. **Iniciar o servidor**:
    ```bash
    java -cp bin br.edu.espacos.server.EspacosServer
    ```
 
-3. **Iniciar o cliente**:
+4. **Iniciar o cliente**:
    ```bash
    java -cp bin br.edu.espacos.App
    ```
