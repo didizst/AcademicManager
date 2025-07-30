@@ -69,7 +69,7 @@ java_project_space/
 
 2. **Compilar o projeto**:
    ```bash
-   javac -d bin src/br/edu/espacos/*.java src/br/edu/espacos/**/*.java
+   javac -d bin src/main/java/br/edu/espacos/auth/*.java src/main/java/br/edu/espacos/client/*.java src/main/java/br/edu/espacos/model/*.java src/main/java/br/edu/espacos/server/*.java src/main/java/br/edu/espacos/storage/*.java src/main/java/br/edu/espacos/view/*.java src/main/java/br/edu/espacos/App.java
    ```
 
 3. **Iniciar o servidor**:
