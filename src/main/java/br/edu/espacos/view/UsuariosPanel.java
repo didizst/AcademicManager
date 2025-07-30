@@ -100,6 +100,12 @@ public class UsuariosPanel extends JPanel {
         String id = (String) modeloUsuarios.getValueAt(linha, 0);
         String nome = (String) modeloUsuarios.getValueAt(linha, 1);
 
+        // Verifica se é o admin principal
+        if ("admin".equals(id)) {
+            JOptionPane.showMessageDialog(this, "Não é permitido remover o administrador principal.");
+            return;
+        }
+
         int confirm = JOptionPane.showConfirmDialog(
                 this,
                 "Tem certeza que deseja deletar o usuário " + nome + "?",
@@ -127,6 +133,12 @@ public class UsuariosPanel extends JPanel {
         String id = (String) modeloUsuarios.getValueAt(linha, 0);
         String nome = (String) modeloUsuarios.getValueAt(linha, 1);
         String tipoAtual = (String) modeloUsuarios.getValueAt(linha, 3);
+
+        // Verifica se é o admin principal
+        if ("admin".equals(id)) {
+            JOptionPane.showMessageDialog(this, "Não é permitido alterar o tipo do administrador principal.");
+            return;
+        }
 
         String novoTipo = tipoAtual.equals("ADMIN") ? "COMUM" : "ADMIN";
         String acao = novoTipo.equals("ADMIN") ? "promover a administrador" : "rebaixar a usuário comum";
