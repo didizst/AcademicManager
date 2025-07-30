@@ -78,15 +78,15 @@ java_project_space/
 
 ## Diagrama de classes
 
-<a href="[https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link](https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link)">Diagrama de Classes</a>
+[Diagrama de Classes aqui](https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link)
 
 ## Diagrama de uso
 
-<a href="[https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link](https://drive.google.com/file/d/1jicyrXl7YjLzNtYMQ_k-JesdkJyVM5UC/view?usp=drive_link)">Diagrama de Classes</a>
+[Diagrama de Uso aqui](https://drive.google.com/file/d/1jicyrXl7YjLzNtYMQ_k-JesdkJyVM5UC/view?usp=drive_link)
 
 ## Diagrama de dados
 
-<a href="[https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link](https://drive.google.com/file/d/14rJDOS_flgMN9AAxB69GwTuYMnTLrlDn/view?usp=drive_link)">Diagrama de Classes</a>
+[Diagrama de Dados aqui](https://drive.google.com/file/d/14rJDOS_flgMN9AAxB69GwTuYMnTLrlDn/view?usp=drive_link)
 
 
 
