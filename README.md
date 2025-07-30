@@ -76,18 +76,3 @@ java_project_space/
    java -cp bin br.edu.espacos.App
    ```
 
-## Credenciais Padrão
-
-- **Administrador**:
-  - Email: `admin@sistema.com`
-  - Senha: `admin123`
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-## Autor
-
-[Seu Nome]  
-[Seu Email]  
-[Seu Website/GitHub]
