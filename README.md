@@ -76,3 +76,7 @@ java_project_space/
    java -cp bin br.edu.espacos.App
    ```
 
+## Diagrama de classes
+
+<img width="3432" height="2861" alt="class_diagram" src="https://github.com/user-attachments/assets/8bd8cfc9-8549-473a-b944-259a5d53668a" />
+
