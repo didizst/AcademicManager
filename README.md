@@ -80,3 +80,15 @@ java_project_space/
 
 <img width="3432" height="2861" alt="class_diagram" src="https://github.com/user-attachments/assets/8bd8cfc9-8549-473a-b944-259a5d53668a" />
 
+## Diagrama de uso
+
+<img width="3222" height="271" alt="use_case_diagram (2)" src="https://github.com/user-attachments/assets/eeb856a8-285f-4d17-964a-c5310524c6a9" />
+
+## Diagrama de dados
+
+<img width="451" height="463" alt="der_diagram (1)" src="https://github.com/user-attachments/assets/556d2e8a-cfe7-4d83-b51b-3cca7419090e" />
+
+
+
+
+
