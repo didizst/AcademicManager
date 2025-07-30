@@ -78,16 +78,15 @@ java_project_space/
 
 ## Diagrama de classes
 
-<img width="3432" height="2861" alt="class_diagram" src="https://github.com/user-attachments/assets/8bd8cfc9-8549-473a-b944-259a5d53668a" />
+<a href="[https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link](https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link)">Diagrama de Classes</a>
 
 ## Diagrama de uso
 
-<img width="3222" height="271" alt="use_case_diagram (2)" src="https://github.com/user-attachments/assets/eeb856a8-285f-4d17-964a-c5310524c6a9" />
+<a href="[https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link](https://drive.google.com/file/d/1jicyrXl7YjLzNtYMQ_k-JesdkJyVM5UC/view?usp=drive_link)">Diagrama de Classes</a>
 
 ## Diagrama de dados
 
-<img width="451" height="463" alt="der_diagram (1)" src="https://github.com/user-attachments/assets/556d2e8a-cfe7-4d83-b51b-3cca7419090e" />
-
+<a href="[https://drive.google.com/file/d/1vA-TKxi2TvhuhqtbEnUCgr29XbcBLmm1/view?usp=drive_link](https://drive.google.com/file/d/14rJDOS_flgMN9AAxB69GwTuYMnTLrlDn/view?usp=drive_link)">Diagrama de Classes</a>
 
 
 
